@@ -1,4 +1,5 @@
-# Bahai-education.org
+# askguasha.com/resources
+
 
 A personal blog about Baha'i Education
 
